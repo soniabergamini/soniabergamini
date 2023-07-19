@@ -18,16 +18,17 @@
 ## ☁ Hosting/SaaS
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soniabergamini/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sonia_bergamini/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/sonia.bergamini.16) 
 
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats & Trophy:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=soniabergamini&no-frame=true&rank=AAA,B&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<br>
 ![](https://github-readme-stats.vercel.app/api?username=soniabergamini&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soniabergamini&theme=dark&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soniabergamini&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
