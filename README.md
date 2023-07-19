@@ -2,8 +2,9 @@
 
 ***<p quote align='center'>"Talk is cheap. Show me the code."</br>-Linus Torvalds</p>***
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soniabergamini&label=Profile%20views&color=0e75b6&style=flat" alt="soniabergamini" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soniabergamini" alt="soniabergamini" /></a> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=soniabergamini&label=Profile%20views&color=0e75b6&style=flat" alt="soniabergamini" /> </p> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=soniabergamini&no-frame=true&rank=AAA,B)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 💫 About Me:
 👩‍💻 Full Stack Web Developer<br>👩‍💼 Growth & Marketing Manager<br>💼 Open To Job Opportunities
