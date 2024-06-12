@@ -5,7 +5,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=soniabergamini&label=Profile%20views&color=0e75b6&style=flat" alt="soniabergamini" /> </p> -->
 
 ## 💫 About Me:
-👩‍💻 Full Stack Web Developer<br>👩‍💼 Growth & Marketing Manager<br>💼 Open To Job Opportunities
+👩‍💻 Full Stack Web Developer<br>👩‍💼 Growth & Marketing Manager<br>
 
 <br>
 
@@ -19,17 +19,17 @@
 
 <br>
 
-## 📊 GitHub Stats & Trophy:
+<!-- ## 📊 GitHub Stats & Trophy: -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=soniabergamini&no-frame=true&rank=AAA,B&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=soniabergamini&no-frame=true&rank=AAA,B&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <br>
 <!-- ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soniabergamini&layout=compact&count_private=true)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=soniabergamini&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=soniabergamini&theme=dark&hide_border=false)<br/> -->
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=soniabergamini&count_private=true&show_icons=true&theme=dark&hide_border=false) <br>
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=soniabergamini&hide_border=false&theme=dark) <br>
+<!-- ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=soniabergamini&count_private=true&show_icons=true&theme=dark&hide_border=false) <br> -->
+<!-- ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=soniabergamini&hide_border=false&theme=dark) <br> -->
 
 
 ---
